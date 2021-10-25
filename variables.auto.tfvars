@@ -1,9 +1,9 @@
-gcp_cre = "gke-cre.json"
-gcp_prjname = "playgroud"
-gcp_region = "us-west1"
-gcp_prjid = "playground-328211"
-gcp_zones = ["us-west1-a"]
+gcp_cre = "your-sa.json"
+gcp_prjname = "your-project-name"
+gcp_region = "your-region"
+gcp_prjid = "your-project-id"
+gcp_zones = ["your-zone"]
 gcp_network = "default"
 gcp_subnetwork = "default"
-gcp_sa = "admin-294@playground-328211.iam.gserviceaccount.com"
-gcp_cluster_name = "mdns-cluster"
+gcp_sa = "your-service-account-name"
+gcp_cluster_name = "your-cluster-name"
